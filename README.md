@@ -37,7 +37,7 @@ Here are some things you can check out on my GitHub:
 
 - 🧱 [`terraform-modules`](https://github.com/SKY1GER/expense-infra-dev): Modular and reusable Terraform components for AWS infra
 - 🐳 [`docker-best-practices`](https://github.com/SKY1GER/expense-docker): Examples and guides on Docker image optimizations
-- 🚦 [`shell-scripting`](https://github.com/SKY1GER/shell-script): Example sample scripts
+- 🚦 [`shell-scripting`](https://github.com/SKY1GER/shell-script): Sample shell scripts
 - 🧪 [`ci-cd-pipelines`](https://github.com/SKY1GER/-terraform-aws-tools): Jenkins pipeline samples integrating SonarQube, Nexus, etc.
 
 
